@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fssc-base-core-classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/fssc-base-core-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
